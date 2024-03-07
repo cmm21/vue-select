@@ -1,6 +1,6 @@
 {
     "name": "@cmm21/vue-select",
-    "version": "1",
+    "version": "4.0.0-beta.7",
     "description": "Everything you wish the HTML <select> element could do, wrapped up into a lightweight, extensible Vue component.",
     "author": "Jeff Sagal <sagalbot@gmail.com>",
     "homepage": "https://vue-select.org",
@@ -100,8 +100,5 @@
                 "maxSize": "2 KB"
             }
         ]
-    },
-    "dependencies": {
-        "vue-select": "github:yourname/vue-select#beta"
     }
 }
